@@ -1,5 +1,5 @@
 
-Data Analyst & Systems Developer ADS graduate | Freelancer AI ENJOYER • Web software development • TSX | JS | Python Studying AI @ufla
+<h2>Data Analyst & Systems Developer ADS graduate | Freelancer AI ENJOYER • Web software development • TSX | JS | Python Studying AI @ufla </h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicollasarc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicollas-arcanjo-79615826b) 
 
