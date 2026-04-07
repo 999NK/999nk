@@ -3,10 +3,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicollasarc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicollas-arcanjo-79615826b) 
 
-![imagem]([https://ibb.co/xq88zKyx](https://i.ibb.co/jkZZ39dn/Frame-1.png))
-<p align="center">
-  <img src="https://i.ibb.co/xq88zKyx/image.png" alt="imagem" width="600"/>
-</p>
 <p align="center">
   <img src="https://i.ibb.co/jkZZ39dn/Frame-1.png" alt="imagem" width="600"/>
 </p>
